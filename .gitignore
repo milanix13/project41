@@ -1,2 +1,5 @@
 # ignore ALL files in directory named .ipynb_checkpoints
 .ipynb_checkpoints/
+
+# ignore ALL files in directory named __pycache__
+__pycache__/
